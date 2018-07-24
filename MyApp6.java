@@ -5,7 +5,7 @@ import java.io.*;
       //if
       //> >= < <= == !=
       //&& || !
-      System.out.print("input integer: ");
+      System.out.print("input score: ");
       int score;
       InputStreamReader isr = new InputStreamReader(System.in);
       BufferedReader br = new BufferedReader(isr);
